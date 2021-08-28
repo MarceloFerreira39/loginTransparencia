@@ -31,6 +31,8 @@ h1{
     border-bottom: 1px solid #FFF;
     padding-top: 10px;
     padding-bottom: 5px;
+    font-size: 14px;
+ 
 }
 .input-box input{
     width: 90%;
@@ -53,7 +55,9 @@ h1{
 }
 #hide1{
     display:none;
+
 }
+
 .login-btn{
     margin: 40px auto 20px;
     width: 80%;
