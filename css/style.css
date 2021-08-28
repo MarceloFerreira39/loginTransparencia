@@ -15,7 +15,7 @@ body{
 }
 .form-box{
     width: 500px;
-    background: rgba(0, 0, 0, 0.8);
+    background: rgba(0, 0, 0, 0.7);
     margin: 12% auto;
     padding: 50px 0;
     color: #FFF;
@@ -41,5 +41,33 @@ h1{
 }
 ::placeholder{
     color: #ccc;
+}
+.fas{
+    margin-right: 10px;
+}
+.far{
+    margin-right: 10px;
+}
+.eye{
+    position: absolute;
+}
+#hide1{
+    display:none;
+}
+.login-btn{
+    margin: 40px auto 20px;
+    width: 80%;
+    display: block;
+    outline: none;
+    padding: 10px 0;
+    border: 1px solid #FFF;
+    cursor: pointer;
+    background: transparent;
+    color: #FFF;
+    font-size: 16px;
+}
+button:hover{
+    background: rgb(255, 253, 253, 0.2);
+    color: #FFF;
 }
 
